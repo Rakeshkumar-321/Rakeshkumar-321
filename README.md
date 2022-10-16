@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rakeshkumar-321
-- 👀 I’m interested in Software Development ...
-- 🌱 I’m currently learning C++, HTML, CSS, JAVASCRIPT ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning C++, HTML, CSS, JAVASCRIPT 
 - 📫 How to reach me [rakeshfoss6@gmail.com](mailto:rakeshfoss6@gmail.com)
 <!--- 💞️ I’m looking to collaborate on ... --->
 
